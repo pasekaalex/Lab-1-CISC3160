@@ -16,6 +16,7 @@ I made two text files. The first line states the month and year (december 2020 i
 Converter.Java processes the week data while ConverterMonth.java processes the month file. They both use a scanner to read the file in a while loop while using a printwriter to write the conversion output to a new file. This was simple to do but tedious to write out very primitively. An inputstream probably would've been better than using the scanner but the output is the same. 
 
 3) Web Development
+
 Make a request on an API endpoint (Nasa’s pic of the day) and display contents.
 I used javascript because of NodeJs’ ability to easily send requests to API endpoints. I got a personal API key from https://api.nasa.gov/#apod. I also used JsFiddle, an online IDE for HTML, CSS, and JavaScript. With some simple html formatting and the request on the NASA API. It displays a webpage that has the  contents. The date, followed by the image, followed by a block of informational text. 
 I’m not sure how this could have been easier, but it would’ve been harder without JsFiddle because then I would have to host my own node.js server to get the request info. 
