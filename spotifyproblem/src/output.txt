@@ -1,0 +1,203 @@
+
+ Artist Name: "Lady Gaga"	 Stream: 41627044
+ Artist Name: DaBaby	 Stream: 36899304
+ Artist Name: "The Weeknd"	 Stream: 36790462
+ Artist Name: "SAINt JHN"	 Stream: 31501096
+ Artist Name: Powfu	 Stream: 27032847
+ Artist Name: Drake	 Stream: 25887943
+ Artist Name: "THE SCOTTS"	 Stream: 24289864
+ Artist Name: "Dua Lipa"	 Stream: 22476417
+ Artist Name: "Ariana Grande"	 Stream: 21423623
+ Artist Name: 6ix9ine	 Stream: 21143946
+ Artist Name: "Tones And I"	 Stream: 20687583
+ Artist Name: "Lil Mosey"	 Stream: 19804629
+ Artist Name: "Surf Mesa"	 Stream: 19322430
+ Artist Name: "Roddy Ricch"	 Stream: 19087768
+ Artist Name: "Dua Lipa"	 Stream: 18888693
+ Artist Name: BENEE	 Stream: 18000520
+ Artist Name: "Justin Bieber"	 Stream: 15911389
+ Artist Name: "Trevor Daniel"	 Stream: 15272835
+ Artist Name: StaySolidRocky	 Stream: 15064252
+ Artist Name: Surfaces	 Stream: 14931455
+ Artist Name: "Megan Thee Stallion"	 Stream: 14746427
+ Artist Name: "Lewis Capaldi"	 Stream: 14707349
+ Artist Name: "Doja Cat"	 Stream: 14700722
+ Artist Name: "Harry Styles"	 Stream: 14147420
+ Artist Name: "Post Malone"	 Stream: 13829039
+ Artist Name: "Melanie Martinez"	 Stream: 13438336
+ Artist Name: "Jack Harlow"	 Stream: 13383276
+ Artist Name: "Travis Scott"	 Stream: 13342664
+ Artist Name: "Bad Bunny"	 Stream: 13283095
+ Artist Name: "Bad Bunny"	 Stream: 13236099
+ Artist Name: "Doja Cat"	 Stream: 12977601
+ Artist Name: "Doja Cat"	 Stream: 12897194
+ Artist Name: "Arizona Zervas"	 Stream: 12855093
+ Artist Name: Marshmello	 Stream: 12668175
+ Artist Name: "Travis Scott"	 Stream: 12561829
+ Artist Name: "KAROL G"	 Stream: 12438430
+ Artist Name: Topic	 Stream: 12330368
+ Artist Name: Future	 Stream: 12306604
+ Artist Name: "Travis Scott"	 Stream: 11995805
+ Artist Name: "Harry Styles"	 Stream: 11439997
+ Artist Name: "Lewis Capaldi"	 Stream: 11341806
+ Artist Name: "Don Toliver"	 Stream: 11023835
+ Artist Name: "Maroon 5"	 Stream: 10805684
+ Artist Name: "Black Eyed Peas"	 Stream: 10531095
+ Artist Name: "Billie Eilish"	 Stream: 10503854
+ Artist Name: "J Balvin"	 Stream: 10502955
+ Artist Name: "Shawn Mendes"	 Stream: 10388637
+ Artist Name: "JP Saxe"	 Stream: 10268115
+ Artist Name: "Juice WRLD"	 Stream: 10090084
+ Artist Name: Kygo	 Stream: 9747526
+ Artist Name: "The Weeknd"	 Stream: 9721257
+ Artist Name: Camilo	 Stream: 9588841
+ Artist Name: "Dua Lipa"	 Stream: 9250360
+ Artist Name: "Post Malone"	 Stream: 9152286
+ Artist Name: "Agust D"	 Stream: 8908179
+ Artist Name: "Megan Thee Stallion"	 Stream: 8811130
+ Artist Name: Regard	 Stream: 8781367
+ Artist Name: "NLE Choppa"	 Stream: 8766701
+ Artist Name: Feid	 Stream: 8699664
+ Artist Name: Drake	 Stream: 8590294
+ Artist Name: "Billie Eilish"	 Stream: 8577352
+ Artist Name: Eminem	 Stream: 8555084
+ Artist Name: DripReport	 Stream: 8518244
+ Artist Name: "Rauw Alejandro"	 Stream: 8298677
+ Artist Name: "Billie Eilish"	 Stream: 8108292
+ Artist Name: "Katy Perry"	 Stream: 8095616
+ Artist Name: "J Balvin"	 Stream: 7721331
+ Artist Name: "Juice WRLD"	 Stream: 7685799
+ Artist Name: Gunna	 Stream: 7570232
+ Artist Name: "Rauw Alejandro"	 Stream: 7544232
+ Artist Name: blackbear	 Stream: 7460578
+ Artist Name: MEDUZA	 Stream: 7422205
+ Artist Name: "Ava Max"	 Stream: 7420471
+ Artist Name: "Ed Sheeran"	 Stream: 7364691
+ Artist Name: "Bad Bunny"	 Stream: 7303228
+ Artist Name: "Lady Gaga"	 Stream: 7261606
+ Artist Name: "Bad Bunny"	 Stream: 7138727
+ Artist Name: "Bonez MC"	 Stream: 6977305
+ Artist Name: "Polo G"	 Stream: 6892795
+ Artist Name: "Black Eyed Peas"	 Stream: 6861241
+ Artist Name: "Bad Bunny"	 Stream: 6835850
+ Artist Name: "J Balvin"	 Stream: 6835370
+ Artist Name: Gunna	 Stream: 6642144
+ Artist Name: "Jhay Cortez"	 Stream: 6632034
+ Artist Name: Sech	 Stream: 6612629
+ Artist Name: "Sleepy Hallow"	 Stream: 6603374
+ Artist Name: "Ava Max"	 Stream: 6602426
+ Artist Name: "Myke Towers"	 Stream: 6599333
+ Artist Name: "Bad Bunny"	 Stream: 6595067
+ Artist Name: "The Weeknd"	 Stream: 6511008
+ Artist Name: "Ariana Grande"	 Stream: 6397939
+ Artist Name: Gunna	 Stream: 6384306
+ Artist Name: Mustard	 Stream: 6351307
+ Artist Name: "Bad Bunny"	 Stream: 6306506
+ Artist Name: "Billie Eilish"	 Stream: 6233298
+ Artist Name: "Nio Garcia"	 Stream: 6210717
+ Artist Name: "Justin Bieber"	 Stream: 6197361
+ Artist Name: "Dan + Shay"	 Stream: 6173293
+ Artist Name: "Imagine Dragons"	 Stream: 6075525
+ Artist Name: "Twenty One Pilots"	 Stream: 6055422
+ Artist Name: "Post Malone"	 Stream: 6037104
+ Artist Name: Khalid	 Stream: 5999890
+ Artist Name: "Ed Sheeran"	 Stream: 5977147
+ Artist Name: Future	 Stream: 5926663
+ Artist Name: "Sam Fischer"	 Stream: 5912188
+ Artist Name: "Robin Schulz"	 Stream: 5883094
+ Artist Name: "Lady Gaga"	 Stream: 5854477
+ Artist Name: XXXTENTACION	 Stream: 5843985
+ Artist Name: PARTYNEXTDOOR	 Stream: 5823405
+ Artist Name: "Sam Smith"	 Stream: 5762179
+ Artist Name: "Harry Styles"	 Stream: 5757248
+ Artist Name: XXXTENTACION	 Stream: 5722567
+ Artist Name: Dalex	 Stream: 5721147
+ Artist Name: "Doja Cat"	 Stream: 5685686
+ Artist Name: Marshmello	 Stream: 5676080
+ Artist Name: Queen	 Stream: 5649933
+ Artist Name: "Madison Beer"	 Stream: 5641974
+ Artist Name: "Rauw Alejandro"	 Stream: 5631844
+ Artist Name: "Roddy Ricch"	 Stream: 5618210
+ Artist Name: "Lil Tecca"	 Stream: 5618131
+ Artist Name: "Justin Quiles"	 Stream: 5558611
+ Artist Name: "Ed Sheeran"	 Stream: 5556656
+ Artist Name: "Capital Bra"	 Stream: 5552890
+ Artist Name: "Lady Gaga"	 Stream: 5518032
+ Artist Name: "Bad Bunny"	 Stream: 5516612
+ Artist Name: "Lil Uzi Vert"	 Stream: 5487510
+ Artist Name: Y2K	 Stream: 5417827
+ Artist Name: "J Balvin"	 Stream: 5392583
+ Artist Name: "DÃ­melo Flow"	 Stream: 5364617
+ Artist Name: "Juice WRLD"	 Stream: 5334433
+ Artist Name: "James Arthur"	 Stream: 5332015
+ Artist Name: JACKBOYS	 Stream: 5319141
+ Artist Name: "Ed Sheeran"	 Stream: 5285817
+ Artist Name: NAV	 Stream: 5279906
+ Artist Name: "Bad Bunny"	 Stream: 5231700
+ Artist Name: "Juice WRLD"	 Stream: 5225786
+ Artist Name: "Lil Uzi Vert"	 Stream: 5220139
+ Artist Name: DaBaby	 Stream: 5209815
+ Artist Name: Gunna	 Stream: 5193309
+ Artist Name: Halsey	 Stream: 5190315
+ Artist Name: "Anuel AA"	 Stream: 5140073
+ Artist Name: "Apache 207"	 Stream: 5139801
+ Artist Name: "Post Malone"	 Stream: 5134161
+ Artist Name: "Bad Bunny"	 Stream: 5133197
+ Artist Name: Yandel	 Stream: 5132247
+ Artist Name: "Alex Rose"	 Stream: 5084564
+ Artist Name: "Ali Gatie"	 Stream: 5083069
+ Artist Name: "Noah Cyrus"	 Stream: 5027694
+ Artist Name: "Jonas Brothers"	 Stream: 5018592
+ Artist Name: "Jhay Cortez"	 Stream: 5009156
+ Artist Name: "Bad Bunny"	 Stream: 4987116
+ Artist Name: "Don Toliver"	 Stream: 4945908
+ Artist Name: "Lil Nas X"	 Stream: 4939163
+ Artist Name: "Ava Max"	 Stream: 4931003
+ Artist Name: "5 Seconds of Summer"	 Stream: 4913862
+ Artist Name: "Jonas Brothers"	 Stream: 4906299
+ Artist Name: "J Balvin"	 Stream: 4893662
+ Artist Name: "Rauw Alejandro"	 Stream: 4880808
+ Artist Name: Sia	 Stream: 4861870
+ Artist Name: "Jonas Brothers"	 Stream: 4859255
+ Artist Name: "Tame Impala"	 Stream: 4853702
+ Artist Name: S1mba	 Stream: 4851878
+ Artist Name: Kina	 Stream: 4844975
+ Artist Name: "Lewis Capaldi"	 Stream: 4830711
+ Artist Name: "Selena Gomez"	 Stream: 4822183
+ Artist Name: "Post Malone"	 Stream: 4805428
+ Artist Name: IU	 Stream: 4764954
+ Artist Name: Halsey	 Stream: 4761908
+ Artist Name: "Chris Brown"	 Stream: 4742654
+ Artist Name: "Natalie Taylor"	 Stream: 4736466
+ Artist Name: "Alexander 23"	 Stream: 4722951
+ Artist Name: "Dean Lewis"	 Stream: 4711701
+ Artist Name: XXXTENTACION	 Stream: 4693885
+ Artist Name: "Rauw Alejandro"	 Stream: 4693548
+ Artist Name: Kygo	 Stream: 4662680
+ Artist Name: "Harry Styles"	 Stream: 4658350
+ Artist Name: 24kGoldn	 Stream: 4645541
+ Artist Name: Vicetone	 Stream: 4642284
+ Artist Name: Pashanim	 Stream: 4641118
+ Artist Name: Kygo	 Stream: 4636775
+ Artist Name: PUBLIC	 Stream: 4636601
+ Artist Name: "John Legend"	 Stream: 4621202
+ Artist Name: Drake	 Stream: 4620148
+ Artist Name: "Camila Cabello"	 Stream: 4617573
+ Artist Name: "Bad Bunny"	 Stream: 4577519
+ Artist Name: "The Weeknd"	 Stream: 4575080
+ Artist Name: "Ariana Grande"	 Stream: 4572855
+ Artist Name: "The Weeknd"	 Stream: 4559855
+ Artist Name: "Travis Scott"	 Stream: 4537762
+ Artist Name: Lauv	 Stream: 4515080
+ Artist Name: "Pop Smoke"	 Stream: 4482294
+ Artist Name: MEDUZA	 Stream: 4474003
+ Artist Name: "Tones And I"	 Stream: 4473968
+ Artist Name: "Post Malone"	 Stream: 4454018
+ Artist Name: "Sam Smith"	 Stream: 4451454
+ Artist Name: Arcangel	 Stream: 4440738
+ Artist Name: jxdn	 Stream: 4435538
+ Artist Name: "The Chainsmokers"	 Stream: 4432498
+ Artist Name: Sech	 Stream: 4419295
+ Artist Name: "Nicky Jam"	 Stream: 4407165
+
+ Average Stream: 8572082.06

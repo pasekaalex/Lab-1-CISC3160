@@ -1,0 +1,28 @@
+Fahrenheint for the date of December 1 : 58.0
+Converted to Celsius for the date of December 1 : 14.444445
+Converted back to Fahrenheint for the date of December 1 : 46.444443
+
+Fahrenheint for the date of December 2 : 44.0
+Converted to Celsius for the date of December 2 : 6.6666665
+Converted back to Fahrenheint for the date of December 2 : 38.666668
+
+Fahrenheint for the date of December 3 : 50.0
+Converted to Celsius for the date of December 3 : 10.0
+Converted back to Fahrenheint for the date of December 3 : 42.0
+
+Fahrenheint for the date of December 4 : 51.0
+Converted to Celsius for the date of December 4 : 10.555555
+Converted back to Fahrenheint for the date of December 4 : 42.555557
+
+Fahrenheint for the date of December 5 : 47.0
+Converted to Celsius for the date of December 5 : 8.333333
+Converted back to Fahrenheint for the date of December 5 : 40.333332
+
+Fahrenheint for the date of December 6 : 41.0
+Converted to Celsius for the date of December 6 : 5.0
+Converted back to Fahrenheint for the date of December 6 : 37.0
+
+Fahrenheint for the date of December 7 : 41.0
+Converted to Celsius for the date of December 7 : 5.0
+Converted back to Fahrenheint for the date of December 7 : 37.0
+
