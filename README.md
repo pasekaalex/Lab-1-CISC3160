@@ -1,7 +1,7 @@
 # Lab-1-CISC3160
 Lab  1 - Spotify chart, weather conversion, api endpoint
 
-1)Reporting: 
+1) Reporting
 I downloaded the CSV file for the top 200 spotify songs during the week of 05/28/2020 globally. There was a persistent issue of having a difficulty splitting the columns into a string array due to recurring commas in featured artists on song names. The csv file is encoded to prevent editing plays. There was honestly no way around this. I had to copy the contents to a text file and edit out the commas in the featured artists. 
 
 I wrote the code in java due to familiarity and past experience with reading and sorting files. I made an Artist class that is structured to hold the artist name and the amount of song plays. When the program is executed it reads the data.txt that was made from the original data.csv, skipping the first two lines then a while loop reads each line and splits it by the commas between number on list, song name, artist name, plays, and link to spotify. It makes a string array of five spots or rather [4] and saves the third[2] and fourth[3] elements of the array as the two variables for the artist class. Then the override for the toString method makes it print out the output in a structured manner. 
